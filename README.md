@@ -1,4 +1,7 @@
-scripts
+Scripts
 =======
 
-Useful scripts that I have use personally that you might want to try out :)
+Some scripts that you might find useful :)
+
+All of these have been run/tested on Mac OSX Mountain Lion.
+They may not work so well on other *nix variants.
